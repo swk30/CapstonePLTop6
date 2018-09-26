@@ -1,2 +1,1 @@
-# CapstonePLTop6
-
+# Thinkful 2018
